@@ -1,0 +1,364 @@
+.green {width: 357px;height: 200px;background-color: green;position: relative;margin-top: 55px;border-top: 1px solid black;border-right: 1px solid black;border-bottom: 1px solid black;}
+
+.red {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    border-radius: 100%;
+    margin: auto;
+    border: 1px solid black;
+}
+.brown {
+    width: 12px;
+    height: 555px;
+    background-color: brown;
+    position: absolute;
+    top: 25px;
+}
+
+.black1 {width: 85px;height: 30px;background-color: black;position: absolute;top: 579px;left: -35px;}
+
+.container {
+     width: 1420px;
+     height: 773px;
+     overflow: hidden;
+     margin: auto;
+     box-sizing: border-box;
+     position: relative;
+     border: 3px solid black;
+     background: #91ff91;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fefffe, #91ff91);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right,#fefffe, #91ff91); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.box {position: absolute;margin-left: 100px;margin-top: 10px;}
+
+.black2 {width: 136px;height: 30px;position: absolute;background-color: black;top: 610px;left: -60px;}
+
+.circle {
+    width: 24px;
+    height: 24px;
+    background-color: black;
+    position: absolute;
+    border-radius: 100%;
+    top: 2px;
+    left: -6px;
+}
+.topBar {
+    height: 99px;
+    border-bottom: 3px solid black;
+    background: #ff9c98;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fffcfc, #ff9c98);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fffcfc, #ff9c98); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.waterlily img {
+    width: 65px;
+    height: 63px;
+    border: 2px solid gray;
+    border-radius: 100%;
+    float: left;
+    padding: 7px;
+    margin-left: 55px;
+    margin-right: 50px;
+    margin-top: 9px;
+    background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+}
+.jackfruit img {
+    width: 65px;
+    height: 63px;
+    border: 2px solid gray;
+    border-radius: 100%;
+    float: left;
+    padding: 7px;
+    margin-right: 50px;
+    margin-top: 9px;
+    background: #B2FEFA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #0ED2F7, #B2FEFA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #0ED2F7, #B2FEFA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.hilsa img {
+    width: 65px;
+    height: 63px;
+    border: 2px solid gray;
+    border-radius: 100%;
+    float: left;
+    padding: 7px;
+    margin-right: 90px;
+    margin-top: 9px;
+    background: #FF5F6D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ }
+.text span {
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+    float: left;
+    margin-right: 90px;
+    margin-top: 17px;
+}
+
+.magpie img {
+    width: 65px;
+    height: 63px;
+    border: 2px solid gray;
+    border-radius: 100%;
+    float: left;
+    padding: 7px;
+    margin-right: 50px;
+    margin-top: 9px;
+    background: #FF5F6D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.tiger img {
+    width: 65px;
+    height: 63px;
+    border: 2px solid gray;
+    border-radius: 100%;
+    padding: 7px;
+    float: left;
+    margin-right: 50px;
+    margin-top: 9px;
+    background: #B2FEFA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #0ED2F7, #B2FEFA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #0ED2F7, #B2FEFA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.rose img {
+    width: 65px;
+    height: 63px;
+    border: 2px solid gray;
+    border-radius: 100%;
+    padding: 7px;
+    float: right;
+    margin-right: 56px;
+    margin-top: 9px;
+    background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.icons {
+       margin-left: 330px;
+       margin-top: 295px;
+       position: relative;
+}
+
+.icons ul li {
+    list-style: none;
+}
+
+.icons ul li a {text-decoration: none;display: block;float: left;width: 30px;height: 30px;margin-right: 50px;}
+
+.icons ul li a:first-child {
+    background-color: #1778F2;
+    color: white;
+    font-size: 66px;
+    padding: 26px;
+    border-radius: 100%;
+    text-align: center;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid lightgray;     
+    }
+.icons ul li a:first-child:hover{
+    transform: scale(1.2);
+}
+.icons ul li a:nth-child(2) {
+    background-color: #db4a39;
+    color: white;
+    padding: 26px;
+    border-radius: 100%;
+    font-size: 43px;
+    text-align: center;
+    transition: 0.4s;
+    cursor: pointer;
+     border: 1px solid lightgray;   
+}
+.icons ul li a:nth-child(2):hover{
+    transform: scale(1.2);
+}
+.icons ul li a:nth-child(3) {
+    background-color: #1DA1F2;
+    color: white;
+    text-align: center;
+    padding: 26px;
+    border-radius: 100%;
+    font-size: 43px;
+    transition: 0.4s;
+    cursor: pointer;
+     border: 1px solid lightgray;     
+}
+.icons ul li a:nth-child(3):hover{
+    transform: scale(1.2);
+}
+
+.icons ul li a:nth-child(4) {
+    background-color: #FF0000;
+    color: white;
+    text-align: center;
+    padding: 26px;
+    border-radius: 100%;
+    font-size: 43px;
+    transition: 0.4s;
+    cursor: pointer;
+     border: 1px solid lightgray;   
+    }
+.icons ul li a:nth-child(4):hover{
+   transform: scale(1.2);
+}
+
+.icons ul li a:last-child {
+    background-color: #0e76a8;
+    color: white;
+    text-align: center;
+    padding: 26px;
+    border-radius: 100%;
+    font-size: 43px;
+    transition: 0.4s;
+    cursor: pointer;
+     border: 1px solid lightgray;   
+}
+.icons ul li a:last-child:hover{
+    transform: scale(1.2);
+}
+i.fab.fa-youtube {display: block;margin-left: -8px;margin-top: -6px;}
+
+i.fab.fa-twitter {
+    display: block;
+    margin-top: -4px;
+    margin-left: -3px;
+}
+
+i.fab.fa-google-plus-g {display: block;margin-left: -10px;margin-top: -5px;}
+
+i.fab.fa-facebook-f {
+    display: block;
+    margin-top: -10px;
+    margin-left: -5px;
+}
+i.fab.fa-linkedin-in {
+    display: block;
+    margin-top: -6px;
+    margin-left: -3px;
+}
+.image1 img {
+    width: 250px;
+    height: 57px;
+    float: right;
+    margin-top: -454px;
+    margin-right: -274px;
+}
+
+.image2 img {
+      width: 250px;
+      height: 57px;
+      float: right;
+      margin-top: -376px;
+      margin-right: -274px;
+}
+
+.image3 img {
+      width: 250px;
+      height: 57px;
+      float: right;
+      margin-top: -298px;
+      margin-right: -274px;
+}
+
+.image4 img {
+     width: 250px;
+     height: 57px;
+     float: right;
+     margin-top: -220px;
+     margin-right: -274px;
+}
+
+.image5 img {
+       width: 250px;
+       height: 57px;
+       float: right;
+       margin-top: -142px;
+       margin-right: -274px;
+}
+.imageIcon {
+    position: relative;
+}
+
+.facebook {
+ position: absolute;
+ right: -221px;
+ top: -442px;
+ color: white;
+ font-family: system-ui;
+ font-size: 21px;
+ font-weight: bold;
+}
+.youtube {
+     position: absolute;
+     right: -234px;
+     top: -365px;
+     color: white;
+     font-family: system-ui;
+     font-size: 23px;
+     font-weight: bold;
+}
+.twitter {
+     position: absolute;
+     right: -227px;
+     top: -286px;
+     color: white;
+     font-family: system-ui;
+     font-size: 23px;
+     font-weight: bold;
+}
+
+.linkedin {
+   position: absolute;
+   right: -214px;
+   top: -208px;
+   color: white;
+   font-family: system-ui;
+   font-size: 21px;
+   font-weight: bold;
+}
+.Whatsapp {
+  position: absolute;
+  right: -226px;
+  top: -129px;
+  color: white;
+  font-family: system-ui;
+  font-size: 21px;
+  font-weight: bold;
+}
+.image2 {
+    position: relative;
+    margin-right: -163px;
+    transition: 0.7s;
+    cursor: pointer;
+}
+.image4 {
+    position: relative;
+    margin-right: -163px;
+    transition: 0.7s;
+    cursor: pointer;
+}
+.image2:hover{
+    margin-right: 0px;
+}
+.image4:hover{
+    margin-right: 0px;
+}
+
